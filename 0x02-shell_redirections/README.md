@@ -1,0 +1,1 @@
+Repo containing bash scripts for *0x02. Shell, I/O Redirections and filters* project from ALX.
